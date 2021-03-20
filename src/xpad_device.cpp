@@ -121,6 +121,7 @@ XPadDevice xpad_devices[] = {
   { GAMEPAD_XBOX360,          0x15e4, 0x3f0a, "Xbox Airflo wired controller" },
   { GAMEPAD_XBOX360,          0x24c6, 0x5300, "PowerA MINI PROEX Controller" },
   { GAMEPAD_XBOXONE_WIRELESS, 0x24c6, 0x543a, "PowerA Xbox One wired controller" },
+  { GAMEPAD_XBOXONE_WIRELESS, 0x044f, 0xd012, "ThrustMaster, Inc. eSwap PRO Controller Xbox" },
   { GAMEPAD_XBOX360,          0x24c6, 0x5500, "Hori XBOX 360 EX 2 with Turbo" },
   { GAMEPAD_XBOX360,          0x24c6, 0x5506, "Hori SOULCALIBUR V Stick" },
   { GAMEPAD_XBOX360,          0x24c6, 0x5b02, "Thrustmaster, Inc. GPX Controller" },
